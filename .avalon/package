@@ -1,5 +1,6 @@
 {
     "needsCompiled": true,
     "compileScript": ".avalon/compile.sh",
-    "installScript": ".avalon/install.sh"
+    "installScript": ".avalon/install.sh",
+    "binname": "apmtest"
 }
