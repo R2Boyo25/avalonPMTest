@@ -1,5 +1,5 @@
 {
     "needsCompiled": true,
-    "compileScript": "compile.sh",
-    "installScript": "install.sh"
+    "compileScript": ".avalon/compile.sh",
+    "installScript": ".avalon/install.sh"
 }
