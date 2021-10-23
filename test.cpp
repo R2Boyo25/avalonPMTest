@@ -3,9 +3,7 @@
 using namespace std;
 
 int main() {
-    for (int i = 1; i<=100; i++) {
-        cout << i << endl;
-    }
+    cout << "Hello from the C++ program that Avalon has just compiled!" << endl;
 
     return 0;
 }
