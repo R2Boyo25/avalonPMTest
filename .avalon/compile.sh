@@ -1,1 +1,1 @@
-g++ test.cpp -o apmtest
+g++ test.cpp -o $2
