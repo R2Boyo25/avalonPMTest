@@ -1,1 +1,5 @@
-{}
+{
+    "needsCompiled": true,
+    "compileScript": "compile.sh",
+    "installScript": "install.sh"
+}
